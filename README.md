@@ -1,2 +1,0 @@
-# codingame_solutions
-Java
